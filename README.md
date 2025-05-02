@@ -14,10 +14,11 @@ I am a passionate **Java Full Stack Developer** specializing in **Spring Boot**,
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979C.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 🎓 Certifications
-📜 **LinkedIn Certifications:**
+📜 **Certifications:**
 - Azure Fundamentals (AZ-900)
-- Java Programming
-- Cloud Computing Basics
+- Applied Skills-Azure networking
+- Java Programming-Skill India
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/k-thillai-nirmal)  
