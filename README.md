@@ -17,7 +17,7 @@ I am a passionate **Java Full Stack Developer** specializing in **Spring Boot**,
 📜 **Certifications:**
 - Azure Fundamentals (AZ-900)
 - Applied Skills-Azure networking
-- Java Programming-Skill India
+- Java Programming(HackerRank)
 
 
 ## 🌐 Connect with Me
