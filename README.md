@@ -3,19 +3,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7009C&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;React+Frontend+Developer;Cloud+%26+DevOps+Engineer;IoT+and+Tech+Innovator" alt="Typing SVG" />
+    <!-- Medium typing speed (pause=700) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=700&color=F7009C&center=true&vCenter=true&width=780&lines=Experienced+Java+Developer;Spring+Boot+%26+Microservices+Specialist;Cloud-native+Azure+Deployments;Event-driven+Systems+with+Kafka;React+Frontend+Integration" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 💡 About Me  
+## 💡 About Me
 
-I’m a **results-driven Java Full Stack Developer** passionate about building scalable, efficient, and user-centric applications using **Spring Boot**, **Microservices**, and **React.js**.  
-I thrive on solving complex problems and exploring **Azure Cloud** and **IoT development** to bring innovation into real-world applications.  
+I’m an experienced **Java Developer** with hands-on expertise in **Java, Spring Boot, and Microservices architecture**.  
+I specialize in building **scalable, cloud-native enterprise applications** and have practical experience deploying solutions on **Microsoft Azure**.
 
-💬 I love contributing to **open-source projects**, learning new frameworks, and building impactful digital solutions.  
-🧠 Outside coding, I’m deeply fascinated by **Quantum Mechanics** and **Mathematics** — exploring the beauty of logic and patterns.
+My technical stack includes **Kafka** for event-driven systems, **Redis** for caching and performance optimization, **MySQL** for relational data management, **ELK Stack** for centralized logging and monitoring, **Docker** for containerized deployments, and **Jenkins** for continuous integration and delivery (CI/CD) automation.
+
+I’m also skilled in **React** for front-end integration and have a strong foundation in **RESTful API design**, **database management**, and **cloud deployment pipelines**.
+
+I focus on writing **efficient, maintainable, and performance-optimized code**, applying proven **software design patterns**, and delivering **high-quality, scalable software solutions** that meet enterprise standards.
 
 ---
 
@@ -27,7 +31,7 @@ I thrive on solving complex problems and exploring **Azure Cloud** and **IoT dev
 | **Frameworks & Libraries** | Spring Boot, Hibernate ORM, React.js |
 | **Databases & Messaging Systems** | MySQL, Redis, Apache Kafka |
 | **DevOps & Deployment Tools** | Jenkins, Docker, Azure Cloud |
-| **Other Skills** | Microservices Architecture, RESTful APIs, JWT, OAuth2 |
+| **Other Skills** | Microservices Architecture, RESTful APIs, JWT, OAuth2, ELK Stack |
 
 ---
 
@@ -67,10 +71,8 @@ Integrated **Kafka** for real-time transaction streaming and **Material UI** for
 ## 🏆 GitHub Trophies (Auto theme)
 
 <div align="center">
-  <!-- dark theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=thillainirmal-tech&theme=onedark&no-frame=true&margin-w=10" />
-    <!-- light theme -->
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thillainirmal-tech&theme=flat&no-frame=true&margin-w=10" />
   </picture>
 </div>
@@ -80,21 +82,21 @@ Integrated **Kafka** for real-time transaction streaming and **Material UI** for
 ## 📊 GitHub Stats (Auto theme)
 
 <div align="center">
-  <!-- Streak -->
+  <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&theme=dark" />
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&theme=default" />
   </picture>
   <br />
 
-  <!-- Main stats -->
+  <!-- Profile Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=github_dark&count_private=true" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=default&count_private=true" />
   </picture>
   <br />
 
-  <!-- Top languages -->
+  <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=github_dark" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=default" />
