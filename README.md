@@ -2,6 +2,12 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/k-thillai-nirmal" target="_blank">K. Thillai Nirmal</a></h1>
 
 <p align="center">
+  <a href="https://youtube.com/@thillairajesh-tech?si=DYLWSJqqmo7RW8QD" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <!-- Medium typing speed (pause=700) -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=700&color=F7009C&center=true&vCenter=true&width=780&lines=Experienced+Java+Developer;Spring+Boot+%26+Microservices+Specialist;Cloud-native+Azure+Deployments;Event-driven+Systems+with+Kafka;React+Frontend+Integration" alt="Typing SVG" />
@@ -57,6 +63,23 @@ Integrated **Kafka** for real-time transaction streaming and **Material UI** for
 
 ---
 
+## 🎥 YouTube Tech Tutorials
+
+I create **hands-on tutorials, microservices builds, cloud deployment guides, and real-world Java/Spring Boot projects** on YouTube.
+
+<p align="center">
+  <a href="https://youtube.com/@thillairajesh-tech?si=DYLWSJqqmo7RW8QD" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Visit My YouTube Channel-red?style=for-the-badge&logo=youtube" alt="YouTube Channel" />
+  </a>
+</p>
+
+🔹 Spring Boot & Microservices Tutorials  
+🔹 Kafka + Docker + Azure Deployments  
+🔹 React + Java Full Stack Projects  
+🔹 Certification & Career Roadmaps  
+
+---
+
 ## 🎓 Certifications  
 
 📜 **Microsoft Certified:**  
@@ -82,21 +105,18 @@ Integrated **Kafka** for real-time transaction streaming and **Material UI** for
 ## 📊 GitHub Stats (Auto theme)
 
 <div align="center">
-  <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&theme=dark" />
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&theme=default" />
   </picture>
   <br />
 
-  <!-- Profile Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=github_dark&count_private=true" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=default&count_private=true" />
   </picture>
   <br />
 
-  <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=github_dark" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=default" />
@@ -121,6 +141,9 @@ Integrated **Kafka** for real-time transaction streaming and **Material UI** for
   </a>
   <a href="https://github.com/thillainirmal-tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@thillairajesh-tech?si=DYLWSJqqmo7RW8QD" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
   <a href="mailto:thillainirmal.javatechies@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" alt="Email" />
