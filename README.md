@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>
-    Oracle Certified Java SE 21 Developer · AWS Certified Solutions Architect – Associate
+    Oracle Certified Java SE 21 Developer · AWS Certified Developer - Associate 
   </strong>
 </p>
 
@@ -99,8 +99,8 @@ I create **hands-on tutorials and real-world implementations** covering:
 - Oracle Certified Java SE 21 Developer (OCP)
 
 ☁️ **AWS Certification:**  
-- AWS Certified Solutions Architect – Associate
-
+- AWS Certified Developer - Associate
+  
 📜 **Microsoft Certified:**  
 - Azure Fundamentals (AZ-900)  
 - Applied Skills – Azure Networking  
