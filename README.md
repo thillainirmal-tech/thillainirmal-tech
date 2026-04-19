@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.thillainirmal-tech.dev/"><b>🌐 View Portfolio</b></a> •
+  <a href="https://www.thillainirmal-tech.dev/"><b>🌐 Portfolio</b></a> •
   <a href="https://github.com/thillainirmal-tech"><b>GitHub</b></a> •
   <a href="https://www.linkedin.com/in/k-thillai-nirmal"><b>LinkedIn</b></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2500&pause=800&width=650&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+AWS;Clean+APIs+%7C+Secure+Auth+%7C+Cloud-ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2500&pause=800&width=600&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+AWS;Clean+APIs+%7C+Secure+Auth+%7C+Cloud-ready" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 💡 About
 
 Backend engineer focused on building scalable, production-grade systems using Java and Spring Boot.  
-I design clean REST APIs, implement secure authentication (JWT), and build cloud-ready services.
+Experienced in designing REST APIs, implementing JWT-based authentication, and developing cloud-ready backend services.
 
 ---
 
@@ -33,7 +33,7 @@ I design clean REST APIs, implement secure authentication (JWT), and build cloud
 `MySQL` · `Data Modeling` · `Query Optimization`
 
 **Cloud & DevOps**  
-`AWS (EC2, S3)` · `Docker` · `Deployment Basics`
+`AWS (EC2, S3)` · `Docker`
 
 **Tools**  
 `Git` · `GitHub` · `Maven` · `Postman` · `IntelliJ IDEA`
@@ -44,12 +44,12 @@ I design clean REST APIs, implement secure authentication (JWT), and build cloud
 
 #### SentinelPay — Microservices Payment System
 
-- Spring Boot microservices architecture  
-- JWT-based authentication & authorization  
-- Secure REST APIs for transaction flows  
-- Modular, scalable service design  
+- Designed using Spring Boot microservices architecture  
+- Implemented secure JWT-based authentication and authorization  
+- Built REST APIs for transaction workflows  
+- Structured for scalability and modular service design  
 
-🔗 <a href="https://www.thillainirmal-tech.dev/"><b>Explore Project →</b></a>
+🔗 <a href="https://www.thillainirmal-tech.dev/"><b>View Project →</b></a>
 
 ---
 
@@ -60,17 +60,13 @@ I design clean REST APIs, implement secure authentication (JWT), and build cloud
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ### ⚡ Current Focus
 
-- Building microservices-based backend systems  
+- Designing scalable microservices systems  
 - Strengthening system design fundamentals  
-- Deploying cloud-ready applications on AWS  
+- Deploying production-ready applications on AWS  
 
 ---
 
@@ -83,5 +79,5 @@ I design clean REST APIs, implement secure authentication (JWT), and build cloud
 ---
 
 <p align="center">
-  <i>Open to Backend Developer / SDE opportunities</i>
+  <i>Open to Backend Developer / SDE roles</i>
 </p>
