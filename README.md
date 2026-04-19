@@ -1,60 +1,71 @@
-# K. Thillai Nirmal
+<h1 align="center">Hi, I'm K. Thillai Nirmal 👋</h1>
 
-### Java Backend Engineer | Spring Boot · Microservices · AWS
+<p align="center">
+  <b>Java Backend Engineer</b><br>
+  Spring Boot · Microservices · AWS
+</p>
 
-> 🔗 **Live Portfolio:** https://www.thillainirmal-tech.dev/
-
----
-
-Backend engineer focused on building scalable, production-grade systems using Java, Spring Boot, and microservices architecture. I enjoy designing clean APIs, secure authentication flows, and cloud-ready backend systems.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  🔗 <a href="https://www.thillainirmal-tech.dev/"><b>View Portfolio</b></a>
+</p>
 
 ---
 
-## Tech Stack
+### 💡 About Me
+
+Backend engineer focused on building scalable, production-grade systems using Java and Spring Boot.  
+I enjoy designing clean APIs, secure authentication systems, and cloud-ready architectures.
+
+---
+
+### 🚀 Tech Stack
 
 **Backend**  
-Java · Spring Boot · Spring Security · REST APIs · Microservices · JWT Authentication  
+`Java` · `Spring Boot` · `Spring Security` · `REST APIs` · `Microservices` · `JWT`
 
 **Database**  
-MySQL · Data Modeling · Query Optimization  
+`MySQL` · `Data Modeling` · `Query Optimization`
 
 **Cloud & DevOps**  
-AWS (EC2, S3) · Docker · Deployment Basics  
+`AWS (EC2, S3)` · `Docker` · `Deployment Basics`
 
 **Tools**  
-Git · GitHub · Maven · Postman · IntelliJ IDEA  
+`Git` · `GitHub` · `Maven` · `Postman` · `IntelliJ IDEA`
 
 ---
 
-## Featured Project
+### 📌 Featured Project
 
-### SentinelPay — Microservices Payment System
+#### SentinelPay — Microservices Payment System
 
 A backend system simulating real-world payment workflows using microservices architecture.
 
-- Designed using **Spring Boot microservices architecture**
-- Implemented **JWT-based authentication and authorization**
-- Built secure **REST APIs for transaction processing**
-- Structured services for **scalability and modular design**
-- Focused on **real-world backend patterns and system design**
+- Microservices-based architecture using Spring Boot  
+- JWT authentication & authorization  
+- Secure REST APIs for transactions  
+- Scalable and modular system design  
 
-🔗 View Project: https://www.thillainirmal-tech.dev/
-
----
-
-## Connect
-
-- Portfolio: https://www.thillainirmal-tech.dev/  
-- LinkedIn: https://www.linkedin.com/in/k-thillai-nirmal  
-- Email: shanmugakannan7549@gmail.com  
+🔗 <a href="https://www.thillainirmal-tech.dev/">Explore Project</a>
 
 ---
 
-> Open to Backend Developer / SDE roles
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&hide_border=true" height="150">
+</p>
+
+---
+
+### 📬 Connect
+
+- 🌐 Portfolio: https://www.thillainirmal-tech.dev/  
+- 💼 LinkedIn: https://www.linkedin.com/in/k-thillai-nirmal  
+- 📧 Email: shanmugakannan7549@gmail.com  
+
+---
+
+<p align="center">
+  <i>Open to Backend Developer / SDE opportunities</i>
+</p>
