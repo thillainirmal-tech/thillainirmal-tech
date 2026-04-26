@@ -1,83 +1,97 @@
 <h1 align="center">K. Thillai Nirmal</h1>
+<h3 align="center">Oracle Certified Java Backend Engineer | Spring Boot Microservices | Kafka | AWS Cloud</h3>
 
 <p align="center">
-  <b>Java Backend Engineer</b><br/>
-  Spring Boot · Microservices · AWS
-</p>
-
-<p align="center">
-  <a href="https://www.thillainirmal-tech.dev/"><b>🌐 Portfolio</b></a> •
-  <a href="https://github.com/thillainirmal-tech"><b>GitHub</b></a> •
-  <a href="https://www.linkedin.com/in/k-thillai-nirmal"><b>LinkedIn</b></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2500&pause=800&width=600&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+AWS;Clean+APIs+%7C+Secure+Auth+%7C+Cloud-ready" />
+  <a href="https://www.thillainirmal-tech.dev">🌐 Portfolio</a> •
+  <a href="https://github.com/thillainirmal-tech">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/k-thillai-nirmal">💼 LinkedIn</a>
 </p>
 
 ---
 
-### 💡 About
+## 🚀 About Me
 
-Backend engineer focused on building scalable, production-grade systems using Java and Spring Boot.  
-Experienced in designing REST APIs, implementing JWT-based authentication, and developing cloud-ready backend services.
+Oracle Certified Java Backend Engineer (Java SE 21) focused on building scalable, secure, and production-grade backend systems using **Spring Boot, Microservices, Apache Kafka, Redis, Docker, and AWS**.
 
----
+I specialize in:
 
-### 🚀 Tech Stack
+- Designing enterprise REST APIs
+- Building distributed microservices architectures
+- Implementing JWT/RBAC security workflows
+- Event-driven asynchronous systems
+- Cloud-ready deployments and backend performance optimization
 
-**Backend**  
-`Java` · `Spring Boot` · `Spring Security` · `REST APIs` · `Microservices` · `JWT`
-
-**Database**  
-`MySQL` · `Data Modeling` · `Query Optimization`
-
-**Cloud & DevOps**  
-`AWS (EC2, S3)` · `Docker`
-
-**Tools**  
-`Git` · `GitHub` · `Maven` · `Postman` · `IntelliJ IDEA`
+Currently open to **Backend Engineer / Java Developer / Microservices Engineer** opportunities.
 
 ---
 
-### 📌 Featured Project
+## 🏅 Certifications
 
-#### SentinelPay — Microservices Payment System
-
-- Designed using Spring Boot microservices architecture  
-- Implemented secure JWT-based authentication and authorization  
-- Built REST APIs for transaction workflows  
-- Structured for scalability and modular service design  
-
-🔗 <a href="https://www.thillainirmal-tech.dev/"><b>View Project →</b></a>
+- Oracle Certified Professional: Java SE 21 Developer
+- AWS Certified Developer – Associate
+- VMware Certified Professional – Spring
+- Microsoft Azure Fundamentals
+- Microsoft Applied Skills: Secure Azure Networking
 
 ---
 
-### 📊 GitHub Analytics
+## ⚙️ Core Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&hide_border=true" height="150"/>
-</p>
+### Backend Engineering
+`Java 21` `Spring Boot` `Spring Security` `Hibernate` `JPA` `REST APIs` `JWT`
 
----
+### Distributed Systems
+`Microservices` `Apache Kafka` `Redis` `API Gateway` `Service Discovery`
 
-### ⚡ Current Focus
+### Cloud & DevOps
+`AWS EC2` `AWS S3` `Docker` `Jenkins CI/CD` `Linux`
 
-- Designing scalable microservices systems  
-- Strengthening system design fundamentals  
-- Deploying production-ready applications on AWS  
+### Databases
+`MySQL` `PostgreSQL`
 
----
-
-### 📬 Connect
-
-- 🌐 Portfolio: https://www.thillainirmal-tech.dev/  
-- 💼 LinkedIn: https://www.linkedin.com/in/k-thillai-nirmal  
-- 📧 Email: shanmugakannan7549@gmail.com  
+### Frontend & Tools
+`React` `Git` `GitHub` `Postman` `Maven`
 
 ---
 
-<p align="center">
-  <i>Open to Backend Developer / SDE roles</i>
-</p>
+## 🔥 Featured Enterprise Systems
+
+### 🚀 SentinelPay – Secure Digital Payment Platform
+Enterprise-grade event-driven payment system built with Spring Boot Microservices, Kafka, Redis, Docker, and AWS for secure real-time transaction processing.
+
+🔗 Repository: https://github.com/thillainirmal-tech/SentinelPay  
+🌐 Live Demo: https://sentinelpay.thillainirmal-tech.dev/#/login
+
+---
+
+### 💳 Kafka Microservice Payment Wallet
+Distributed wallet ecosystem using asynchronous Kafka messaging, JWT security, and Redis-backed transaction workflows.
+
+🔗 Repository: https://github.com/thillainirmal-tech/Kafka-Microservice-Payment-wallet
+
+---
+
+### 🛒 Event-Driven E-Commerce Backend
+Scalable e-commerce backend engineered with Spring Cloud microservices, Kafka event pipelines, retry mechanisms, and decoupled purchase orchestration.
+
+🔗 Repository: https://github.com/thillainirmal-tech/E-commerce-phase3
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 Portfolio: https://www.thillainirmal-tech.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/k-thillai-nirmal
+- 📧 Email: shanmugakannan7549@gmail.com
+
+---
+
+<h3 align="center">Open to Java Backend Engineer • Spring Boot Developer • Microservices Engineer Roles</h3>
