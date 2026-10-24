@@ -79,6 +79,7 @@ Published in the *International Journal for Research in Advanced Computer Scienc
 [![Pull Requests](https://img.shields.io/badge/Pull_Requests-View-8957E5?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Athillainirmal-tech)
 [![Issues](https://img.shields.io/badge/Issues-View-1F883D?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aissue+author%3Athillainirmal-tech)
 [![Contributions](https://img.shields.io/badge/Contributions-Activity-0969DA?style=for-the-badge&logo=github)](https://github.com/thillainirmal-tech?tab=overview)
+[![Achievements](https://img.shields.io/badge/GitHub_Achievements-View-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thillainirmal-tech?tab=achievements)
 [![Followers](https://img.shields.io/github/followers/thillainirmal-tech?style=for-the-badge&logo=github&label=Followers&color=0A66C2)](https://github.com/thillainirmal-tech?tab=followers)
 [![Stars](https://img.shields.io/github/stars/thillainirmal-tech?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=E3B341)](https://github.com/thillainirmal-tech?tab=repositories&sort=stargazers)
 
