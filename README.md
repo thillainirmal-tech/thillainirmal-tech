@@ -4,6 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thillainirmal-tech.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-thillai-nirmal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/emOGqNBjOl/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugakannan7549@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=thillainirmal-tech&style=for-the-badge&color=2C5364)](https://github.com/thillainirmal-tech)
 
@@ -78,6 +79,16 @@ Published in the *International Journal for Research in Advanced Computer Scienc
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=thillainirmal-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Coding & problem solving
+
+<div align="center">
+
+[![LeetCode profile](https://leetcard.jacoblin.cool/emOGqNBjOl?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/emOGqNBjOl/)
+
+[![Solve with me](https://img.shields.io/badge/Solve_with_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/emOGqNBjOl/)
 
 </div>
 
