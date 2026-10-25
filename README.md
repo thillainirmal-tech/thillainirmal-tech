@@ -57,8 +57,11 @@ I am an Oracle-certified Java backend engineer focused on scalable, secure, clou
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [**SentinelPay**](https://github.com/thillainirmal-tech/SentinelPay) | Real-time fraud detection and transaction authorization; foundation of my published research | Spring Boot, Kafka, Redis, Spring AI, Docker, AWS |
+| [**LeetCode Automater**](https://github.com/thillainirmal-tech/leetcode-automater) | Validated multi-language solution catalogue with account-aware submission tooling and an open contribution workflow | Node.js, Java, Python, C++, TypeScript, GitHub Actions |
 | [**Kafka Payment Wallet**](https://github.com/thillainirmal-tech/Kafka-Microservice-Payment-wallet) | Asynchronous wallet workflows, JWT security, service discovery, and distributed processing | Java, Spring Cloud, Kafka, Redis, JWT |
 | [**Event-Driven E-Commerce**](https://github.com/thillainirmal-tech/E-commerce-phase3) | Decoupled order, payment, and inventory pipelines with resilient event orchestration | Spring Boot, Kafka, Microservices |
+
+[Explore the LeetCode Automater project site](https://thillainirmal-tech.github.io/leetcode-automater/) for its capabilities, safety notes, validation process, and contribution guide.
 
 ## Published research
 
