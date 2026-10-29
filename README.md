@@ -52,7 +52,7 @@ I am an Oracle-certified Java backend engineer focused on scalable, secure, clou
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Featured work
+## Projects
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
