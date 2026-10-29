@@ -58,6 +58,9 @@ I am an Oracle-certified Java backend engineer focused on scalable, secure, clou
 |---|---|---|
 | [**SentinelOps AI**](https://github.com/thillainirmal-tech/SentinelOps-AI) | Explainable multi-agent incident response with grounded runbooks, transparent reasoning, and human approval gates | Java 17, Spring Boot, RAG, Prometheus, Docker |
 | [**ClauseLens AI**](https://github.com/thillainirmal-tech/ClauseLens-AI) | Evidence-first policy intelligence with PDF ingestion, metadata-scoped retrieval, citations, and compliance risk detection | Java 17, Spring Boot, PDFBox, Vector Search, Docker |
+| [**ModelMesh AI**](https://github.com/thillainirmal-tech/ModelMesh-AI) | Auditable multi-provider routing across OpenAI, Gemini, Anthropic, and private runtimes | Java 17, Spring Boot, Policy Routing, Prometheus |
+| [**LocalMind Router**](https://github.com/thillainirmal-tech/LocalMind-Router) | Privacy-first workload routing for Ollama, safe deterministic tools, and approved cloud fallbacks | Java 17, Spring Boot, Ollama-ready, Tool Routing |
+| [**ContextBridge MCP**](https://github.com/thillainirmal-tech/ContextBridge-MCP) | Production-minded MCP server with typed, non-destructive engineering tools | Java 17, Spring AI, MCP, Docker |
 | [**SentinelPay**](https://github.com/thillainirmal-tech/SentinelPay) | Real-time fraud detection and transaction authorization; foundation of my published research | Spring Boot, Kafka, Redis, Spring AI, Docker, AWS |
 | [**LeetCode Automater**](https://github.com/thillainirmal-tech/leetcode-automater) | Validated multi-language solution catalogue with account-aware submission tooling and an open contribution workflow | Node.js, Java, Python, C++, TypeScript, GitHub Actions |
 | [**Kafka Payment Wallet**](https://github.com/thillainirmal-tech/Kafka-Microservice-Payment-wallet) | Asynchronous wallet workflows, JWT security, service discovery, and distributed processing | Java, Spring Cloud, Kafka, Redis, JWT |
