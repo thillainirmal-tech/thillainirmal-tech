@@ -1,128 +1,95 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=K.%20Thillai%20Nirmal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=17)
+# K. Thillai Nirmal
+
+### Java Backend Engineer | Spring Boot | Microservices | Kafka | Distributed Systems
+
+I build secure, event-driven backend systems and production-minded AI services with Java.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thillainirmal-tech.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-thillai-nirmal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/emOGqNBjOl/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugakannan7549@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=thillainirmal-tech&style=for-the-badge&color=2C5364)](https://github.com/thillainirmal-tech)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugakannan7549@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/emOGqNBjOl/)
+
+**Based in India · Open to Java Backend, Spring Boot, Microservices, and Distributed Systems roles**
 
 </div>
 
-## About me
+## Recruiter snapshot
 
-I am an Oracle-certified Java backend engineer focused on scalable, secure, cloud-ready systems. I build Spring Boot microservices, event-driven platforms with Apache Kafka, and production-oriented REST APIs with clean architecture and reliable data workflows.
+| | |
+|---|---|
+| **Core strength** | Designing reliable Java services, REST APIs, asynchronous workflows, and data-intensive systems |
+| **Backend** | Java 21, Spring Boot, Spring Security, Spring Cloud, Hibernate/JPA, Maven |
+| **Architecture** | Microservices, event-driven systems, API gateways, idempotency, distributed transactions |
+| **Messaging & data** | Apache Kafka, Redis, PostgreSQL, MySQL |
+| **Cloud & delivery** | AWS, Docker, GitHub Actions, Jenkins, Prometheus, Grafana |
+| **Applied AI** | Spring AI, LangChain4j, RAG, MCP, evaluation, guardrails, human approval workflows |
 
-- Building distributed backend platforms with **Java 21, Spring Boot, Kafka, Redis, Docker, and AWS**
-- Exploring **Spring AI, LangChain4j, RAG, and production AI integration**
-- Published research on real-time, AI-assisted payment fraud detection
-- Open to **Java Backend, Spring Boot, Microservices, and Distributed Systems** opportunities
+## Selected engineering work
 
-## Certifications
+### [SentinelPay](https://github.com/thillainirmal-tech/SentinelPay) — real-time payment fraud detection
+
+An event-driven payment platform combining transaction authorization, layered fraud detection, observability, and a React operator experience.
+
+- Spring Boot microservices with Kafka, Redis, MySQL, Docker, Prometheus, and Grafana
+- Research prototype measured at **95.2% accuracy**, **94.2% F1**, **~50 ms latency**, and **1,200 TPS**
+- Published [research paper](https://ijracse.org/index.php/cse/article/view/2477), [live demo](https://sentinelpay.thillainirmal-tech.dev/#/login), and [v0.1.0 preview release](https://github.com/thillainirmal-tech/SentinelPay/releases/tag/v0.1.0-preview)
+
+### [SentinelOps AI](https://github.com/thillainirmal-tech/SentinelOps-AI) — explainable incident response
+
+A safety-first incident assistant that grounds recommendations in runbooks and operational signals.
+
+- Multi-agent investigation with transparent evidence and human approval gates
+- Java, Spring Boot, RAG, Prometheus, and Docker
+- Designed to recommend controlled actions instead of making unsafe autonomous changes
+
+### [ClauseLens AI](https://github.com/thillainirmal-tech/ClauseLens-AI) — evidence-first policy intelligence
+
+A document intelligence service for analysing policies and contracts without losing source traceability.
+
+- PDF ingestion, metadata-scoped retrieval, citations, and compliance-risk detection
+- Java, Spring Boot, PDFBox, vector search, and Docker
+- Every result preserves evidence for review and audit
+
+### [EvalForge AI](https://github.com/thillainirmal-tech/EvalForge-AI) — RAG regression testing
+
+A deterministic evaluation service for detecting retrieval and answer-quality regressions before release.
+
+- Baseline-versus-candidate quality gates with reproducible scoring
+- Java, Spring Boot, RAG evaluation, and AI testing
+- Treats AI quality as an engineering signal suitable for CI/CD
+
+[View all repositories →](https://github.com/thillainirmal-tech?tab=repositories) · [View portfolio →](https://www.thillainirmal-tech.dev)
+
+## Evidence of engineering practice
+
+- **Published research:** hybrid AI-assisted fraud detection for digital payment systems
+- **Open source:** merged documentation contributions to Higher-Kinded-J — [EitherPath](https://github.com/higher-kinded-j/higher-kinded-j/pull/1254) and [MaybePath](https://github.com/higher-kinded-j/higher-kinded-j/pull/1269)
+- **Production habits:** CI, dependency automation, security policies, contribution guides, release notes, observability, and reproducible local environments
+- **Problem solving:** active [LeetCode profile](https://leetcode.com/u/emOGqNBjOl/) and a validated [multi-language solution catalogue](https://github.com/thillainirmal-tech/leetcode-automater)
+
+## Certification
 
 ![Oracle](https://img.shields.io/badge/Oracle_Certified-Java_SE_21-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Spring](https://img.shields.io/badge/VMware_Certified-Spring_Professional-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## Tech stack
+## Current focus
 
-### Backend & architecture
+- Reliable, observable Spring Boot microservices
+- Event-driven workflows with Kafka and resilient data boundaries
+- Secure API design, authentication, authorization, and failure handling
+- Production AI integration with evaluation, citations, privacy controls, and human oversight
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+## Contact
 
-### Messaging, data & cloud
+I am open to backend engineering opportunities where Java, distributed systems, reliability, and thoughtful system design matter.
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### Delivery & tooling
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Projects
-
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [**SentinelOps AI**](https://github.com/thillainirmal-tech/SentinelOps-AI) | Explainable multi-agent incident response with grounded runbooks, transparent reasoning, and human approval gates | Java 17, Spring Boot, RAG, Prometheus, Docker |
-| [**ClauseLens AI**](https://github.com/thillainirmal-tech/ClauseLens-AI) | Evidence-first policy intelligence with PDF ingestion, metadata-scoped retrieval, citations, and compliance risk detection | Java 17, Spring Boot, PDFBox, Vector Search, Docker |
-| [**ModelMesh AI**](https://github.com/thillainirmal-tech/ModelMesh-AI) | Auditable multi-provider routing across OpenAI, Gemini, Anthropic, and private runtimes | Java 17, Spring Boot, Policy Routing, Prometheus |
-| [**LocalMind Router**](https://github.com/thillainirmal-tech/LocalMind-Router) | Privacy-first workload routing for Ollama, safe deterministic tools, and approved cloud fallbacks | Java 17, Spring Boot, Ollama-ready, Tool Routing |
-| [**ContextBridge MCP**](https://github.com/thillainirmal-tech/ContextBridge-MCP) | Production-minded MCP server with typed, non-destructive engineering tools | Java 17, Spring AI, MCP, Docker |
-| [**MemoryVault AI**](https://github.com/thillainirmal-tech/MemoryVault-AI) | Durable privacy-aware chat memory with PII redaction, TTL, compression, and multimodal metadata | Java 17, Spring Boot, H2, Privacy Controls |
-| [**DeepRAG Studio**](https://github.com/thillainirmal-tech/DeepRAG-Studio) | Inspectable laboratory for query rewriting, multi-query, HyDE, filtering, re-ranking, and compression | Java 17, Spring Boot, RAG Evaluation, Docker |
-| [**CloudPulse AI**](https://github.com/thillainirmal-tech/CloudPulse-AI) | Kubernetes signal correlation with Prometheus, Grafana, and safety-first incident guidance | Java 17, Spring Boot, Kubernetes, Prometheus, Grafana |
-| [**CommercePilot AI**](https://github.com/thillainirmal-tech/CommercePilot-AI) | Explainable multi-agent order orchestration with human review and explicit action boundaries | Java 17, Spring Boot, Agent Orchestration, Responsible AI |
-| [**EvalForge AI**](https://github.com/thillainirmal-tech/EvalForge-AI) | Deterministic RAG quality evaluation and baseline-versus-candidate regression gating | Java 17, Spring Boot, RAG Evaluation, AI Testing |
-| [**SentinelPay**](https://github.com/thillainirmal-tech/SentinelPay) | Real-time fraud detection and transaction authorization; foundation of my published research | Spring Boot, Kafka, Redis, Spring AI, Docker, AWS |
-| [**LeetCode Automater**](https://github.com/thillainirmal-tech/leetcode-automater) | Validated multi-language solution catalogue with account-aware submission tooling and an open contribution workflow | Node.js, Java, Python, C++, TypeScript, GitHub Actions |
-| [**Kafka Payment Wallet**](https://github.com/thillainirmal-tech/Kafka-Microservice-Payment-wallet) | Asynchronous wallet workflows, JWT security, service discovery, and distributed processing | Java, Spring Cloud, Kafka, Redis, JWT |
-| [**Event-Driven E-Commerce**](https://github.com/thillainirmal-tech/E-commerce-phase3) | Decoupled order, payment, and inventory pipelines with resilient event orchestration | Spring Boot, Kafka, Microservices |
-
-[Explore the LeetCode Automater project site](https://thillainirmal-tech.github.io/leetcode-automater/) for its capabilities, safety notes, validation process, and contribution guide.
-
-## Published research
-
-### SentinelPay: A Hybrid AI-Driven System for Real-Time Fraud Detection in Digital Payment Systems
-
-Published in the *International Journal for Research in Advanced Computer Science and Engineering*, Volume 12, Issue 1, May 2026.
-
-[![Read Paper](https://img.shields.io/badge/Read_the_paper-00629B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ijracse.org/index.php/cse/article/view/2477)
-[![Live Demo](https://img.shields.io/badge/Live_demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinelpay.thillainirmal-tech.dev/#/login)
-
-`95.2% accuracy` | `93.8% precision` | `94.6% recall` | `94.2% F1 score` | `~50 ms latency` | `1,200 TPS`
-
-## GitHub activity
+- **Email:** [shanmugakannan7549@gmail.com](mailto:shanmugakannan7549@gmail.com)
+- **LinkedIn:** [linkedin.com/in/k-thillai-nirmal](https://www.linkedin.com/in/k-thillai-nirmal)
+- **Portfolio:** [thillainirmal-tech.dev](https://www.thillainirmal-tech.dev)
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github)](https://github.com/thillainirmal-tech?tab=repositories)
-[![Pull Requests](https://img.shields.io/badge/Pull_Requests-View-8957E5?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Athillainirmal-tech)
-[![Issues](https://img.shields.io/badge/Issues-View-1F883D?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aissue+author%3Athillainirmal-tech)
-[![Contributions](https://img.shields.io/badge/Contributions-Activity-0969DA?style=for-the-badge&logo=github)](https://github.com/thillainirmal-tech?tab=overview)
-[![Achievements](https://img.shields.io/badge/GitHub_Achievements-View-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thillainirmal-tech?tab=achievements)
-[![Followers](https://img.shields.io/github/followers/thillainirmal-tech?style=for-the-badge&logo=github&label=Followers&color=0A66C2)](https://github.com/thillainirmal-tech?tab=followers)
-[![Stars](https://img.shields.io/github/stars/thillainirmal-tech?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=E3B341)](https://github.com/thillainirmal-tech?tab=repositories&sort=stargazers)
-
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thillainirmal-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=thillainirmal-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## Coding & problem solving
-
-<div align="center">
-
-[![LeetCode profile](https://leetcard.jacoblin.cool/emOGqNBjOl?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/emOGqNBjOl/)
-
-[![Solve with me](https://img.shields.io/badge/Solve_with_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/emOGqNBjOl/)
-
-</div>
-
-## Let's connect
-
-I enjoy discussing Java, backend architecture, distributed systems, and production AI. If you are building something ambitious - or hiring for a backend engineering role - feel free to reach out.
-
-<div align="center">
-
-**Open to Java Backend Engineer | Spring Boot Developer | Microservices Engineer opportunities**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
+**Available for Java Backend Engineer · Spring Boot Developer · Microservices Engineer roles**
 
 </div>
