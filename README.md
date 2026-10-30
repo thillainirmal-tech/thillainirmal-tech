@@ -62,6 +62,17 @@ A deterministic evaluation service for detecting retrieval and answer-quality re
 
 [View all repositories →](https://github.com/thillainirmal-tech?tab=repositories) · [View portfolio →](https://www.thillainirmal-tech.dev)
 
+## Verification shortcuts
+
+Recruiters and collaborators can verify current build health and implementation evidence directly:
+
+- **SentinelPay:** [CI](https://github.com/thillainirmal-tech/SentinelPay/actions) · [releases](https://github.com/thillainirmal-tech/SentinelPay/releases) · [runtime demo](https://sentinelpay.thillainirmal-tech.dev/#/login)
+- **VoyageWeaver ADK:** [repository](https://github.com/thillainirmal-tech/VoyageWeaver-ADK) · [CI](https://github.com/thillainirmal-tech/VoyageWeaver-ADK/actions)
+- **ShopOps Copilot:** [repository](https://github.com/thillainirmal-tech/ShopOps-Copilot) · [CI](https://github.com/thillainirmal-tech/ShopOps-Copilot/actions)
+- **ClauseLens AI:** [repository](https://github.com/thillainirmal-tech/ClauseLens-AI) · [CI](https://github.com/thillainirmal-tech/ClauseLens-AI/actions)
+
+Each repository documents its supported runtime path, tests, container workflow, and deployment assumptions.
+
 ## Evidence of engineering practice
 
 - **Published research:** hybrid AI-assisted fraud detection for digital payment systems
